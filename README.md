@@ -53,6 +53,6 @@ Open the project: Double-click index.html or open the folder in your favorite co
 ## 👤 Author
 Mujeeb Mughal
 
-GitHub: @MujeebMughal
+GitHub: @mujeeb-mughal
 
 Enjoyed making this as part of my web development journey!
